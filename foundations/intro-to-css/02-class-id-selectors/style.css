@@ -1,5 +1,11 @@
 /* Add CSS Styling */
 
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+
 .p_salmon {
     background-color: lightsalmon;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
