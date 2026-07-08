@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.p_salmon {
+    background-color: salmon;
+    font-size: 20px;
+}
