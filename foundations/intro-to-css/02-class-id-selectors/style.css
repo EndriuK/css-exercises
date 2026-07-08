@@ -1,9 +1,5 @@
 /* Add CSS Styling */
 
-#number_2 {
-    color: blue;
-    font-size: 36px;
-}
 
 
 .p_salmon {
@@ -12,8 +8,19 @@
     font-size: 20px;
 }
 
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
 .p_cooler {
     background-color: lightsalmon;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
+}
+
+#number_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
