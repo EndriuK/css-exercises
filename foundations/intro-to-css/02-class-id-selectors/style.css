@@ -1,6 +1,13 @@
 /* Add CSS Styling */
 
 .p_salmon {
-    background-color: salmon;
+    background-color: lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
+}
+
+.p_cooler {
+    background-color: lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
 }
